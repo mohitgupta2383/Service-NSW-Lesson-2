@@ -24,8 +24,6 @@ async function Program() {
         i++
     }
     console.log(newArray);
-
-
 }
 
 Program().then(() => {
